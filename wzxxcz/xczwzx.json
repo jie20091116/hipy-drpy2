@@ -996,16 +996,16 @@
             "api": "./py/番茄酱影视.py"
         },
 		{
-            "key": "豆花影视",
-            "name": "🥛豆花影视",
+            "key": "不卡影视",
+            "name": "🍊不卡影视",
             "type": 3,
-            "api": "./py/豆花影视.py"
+            "api": "./py/不卡影视.py"
         },
 		{
-            "key": "808yr",
-            "name": "🎞️808影院",
+            "key": "飘花播播",
+            "name": "❄️飘花播播",
             "type": 3,
-            "api": "./py/808影院.py"
+            "api": "./py/飘花播播.py"
         },
 		{
             "key": "gqc",
@@ -4898,19 +4898,6 @@
                 "dataIv": "oW5UxZ5kWVr1DI69",
                 "init": "initV122",
                 "ua": "okhttp/3.10.0"
-            }
-        },
-		{
-            "key": "世界",
-            "name": "🗺️世界影视",
-            "type": 3,
-            "api": "csp_AppGet",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": {
-                "url": "https://appcms.4ksj.app",
-                "dataKey": "O3K6rYx75Q4xtiIE",
-                "dataIv": "O3K6rYx75Q4xtiIE"
             }
         },
 		{
